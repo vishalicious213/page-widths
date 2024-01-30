@@ -1,0 +1,135 @@
+
+/* PAGE-WIDTHS */
+
+body {
+    padding: 1rem;
+    background-color: black;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2 {
+    color: gold;
+}
+
+a {
+    color: white;
+}
+
+.page-width-type {
+    color: gold;
+    margin-top: 2rem;
+    padding-top: 1rem;
+    border-top: 2px solid orange;
+}
+
+.page-widths-red {
+    border: 1px solid red;
+    background: red;
+    margin-bottom: 1rem;
+    font-weight: 600;
+    color: black;
+}
+
+.page-widths-orange {
+    border: 1px solid orange;
+    background: orange;
+    margin-bottom: 1rem;
+    font-weight: 600;
+    color: black;
+}
+
+.page-widths-yellow {
+    border: 1px solid yellow;
+    background: yellow;
+    margin-bottom: 1rem;
+    font-weight: 600;
+    color: black;
+}
+
+.page-widths-green {
+    border: 1px solid green;
+    background: green;
+    margin-bottom: 1rem;
+    font-weight: 600;
+    color: gainsboro;
+}
+
+.page-widths-blue {
+    border: 1px solid blue;
+    background: blue;
+    margin-bottom: 1rem;
+    font-weight: 600;
+    color: gainsboro;
+}
+
+.page-widths-indigo {
+    border: 1px solid indigo;
+    background: indigo;
+    margin-bottom: 1rem;
+    font-weight: 600;
+    color: gainsboro;
+}
+
+.page-widths-violet {
+    border: 1px solid violet;
+    background: violet;
+    margin-bottom: 1rem;
+    font-weight: 600;
+    color: black;
+}
+
+.w-1920 {
+    width: 1920px
+}
+.w-1366 {
+    width: 1366px
+}
+.w-1440 {
+    width: 1440px
+}
+.w-1536 {
+    width: 1536px
+}
+.w-1280 {
+    width: 1280px
+}
+.w-1600 {
+    width: 1600px
+}
+.w-1920 {
+    width: 1920px
+}
+.w-414 {
+    width: 414px
+}
+.w-375 {
+    width: 375px
+}
+.w-360 {
+    width: 360px
+}
+.w-412 {
+    width: 412px
+}
+.w-768 {
+    width: 768px
+}
+.w-800 {
+    width: 800px
+}
+.w-601 {
+    width: 601px
+}
+.w-1024 {
+    width: 1024px
+}
+.w-600 {
+    width: 600px
+}
+.w-992 {
+    width: 992px
+}
+.w-1200 {
+    width: 1200px
+}
